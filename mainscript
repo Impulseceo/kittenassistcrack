@@ -1,4 +1,4 @@
-getgenv().SilentAimbotKey = 'b'; getgenv().AimlockKey = 'q';  _G.WEBHOOK_URL = 'https://discord.com/api/webhooks/954444593120825394/imbfYGxEiW3ZzWkzfDbApXecxv0sYjAoieP6kmHe1iUPKM-PTPtKBhnzYjgJTMCZgv12';
+getgenv().SilentAimbotKey = 'b'; getgenv().AimlockKey = 'q';  _G.WEBHOOK_URL = '';
 
 _G.PART = "UpperTorso"
 _G.PART2 = "UpperTorso"
